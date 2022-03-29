@@ -9,9 +9,11 @@
 ## &nbsp;&nbsp;&nbsp; [<ins>24-02</ins>]($root$/../Avalição%20do%20PEA/PEA-09-03.md)
 ## &nbsp;&nbsp;&nbsp; [<ins>09-03</ins>]($root$/../Avalição%20do%20PEA/PEA-09-03.md)
 
-<br><br>
+<br><br/>
 # Pesquisas 
 ## [<ins>Gerenciamento de projetos nas organizações</ins>]($root$/../docs/Gerenciamento%20de%20Projetos%20-%20Pesquisa.pdf)
 
-
-
+<br><br>
+# Documentos
+## [<ins>Scrum (Apresentação)</ins>]($root$/../docs/Scrum.pdf)
+## [<ins>Gráfico de Gantt</ins>]($root$/../docs/Gr%C3%A1fico%20de%20Gantt%20%20-%20CronogramaDeProjeto.pdf)
