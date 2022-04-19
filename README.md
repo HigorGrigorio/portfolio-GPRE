@@ -22,3 +22,4 @@
 ## [<ins>EAP</ins>]($root$/../docs/EAP.pdf)
 ## [<ins>Quadro Trello - NaturArt (gerado 04/04)</ins>]($root$/../docs/NaturArt%20_%20Trello.pdf)
 ## [<ins>Apresentação (05/04)</ins>]($root$/../docs/NaturArt%20_%20Trello.pdf)
+## [<ins>Festival Arandu</ins>]($root$/../docs/Festival%20Arandu.pdf)
