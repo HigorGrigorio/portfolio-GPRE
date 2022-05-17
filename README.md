@@ -21,5 +21,7 @@
 ## [<ins>Gráfico de Gantt</ins>]($root$/../docs/Gr%C3%A1fico%20de%20Gantt%20%20-%20CronogramaDeProjeto.pdf)
 ## [<ins>EAP</ins>]($root$/../docs/EAP.pdf)
 ## [<ins>Quadro Trello - NaturArt (gerado 04/04)</ins>]($root$/../docs/NaturArt%20_%20Trello.pdf)
+## [<ins> Gestão de projetos - Visão Geral (gerado 17/05)</ins>]($root$/../docs/Gest%C3%A3o%20de%20Projetos%20-%20Vis%C3%A3o%20Geral.pdf)
+
 ## [<ins>Apresentação (05/04)</ins>]($root$/../docs/NaturArt%20_%20Trello.pdf)
 ## [<ins>Festival Arandu</ins>]($root$/../docs/Festival%20Arandu.pdf)
