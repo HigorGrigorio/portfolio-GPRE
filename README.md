@@ -25,3 +25,6 @@
 
 ## [<ins>Apresentação (05/04)</ins>]($root$/../docs/NaturArt%20_%20Trello.pdf)
 ## [<ins>Festival Arandu</ins>]($root$/../docs/Festival%20Arandu.pdf)
+
+
+## [<ins>Organização do projeto</ins>]($root$/../docs/Festival%20Arandu.pdf)
