@@ -14,6 +14,7 @@
 
 ## [<ins>31-05</ins>]($root$/../Avalição%20do%20PEA/PEA-31-05.md)
 
+## [<ins>21-06</ins>]($root$/../Avalição%20do%20PEA/PEA-21-06.md)
 
 
 <br><br/>
