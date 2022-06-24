@@ -3,6 +3,10 @@
 
 ## [<ins>Memorial do Aluno</ins>]($root$/../Memorial%20do%20Aluno/Memorial.md)
 
+<br>
+
+## [<ins>Mapa mental</ins>]($root$/../Mapa%20Mental/mapa%20mental.png)
+
 <br><br>
 > # Avaliação PEA
 
